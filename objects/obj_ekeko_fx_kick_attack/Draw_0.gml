@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_ekeko_f1_kick_attack, image_index, x, y, image_xscale, 4, 0, c_white, 1);

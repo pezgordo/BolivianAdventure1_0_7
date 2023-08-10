@@ -1,0 +1,1 @@
+audio_play_sound(snd_minibus_explode, 8, 0);

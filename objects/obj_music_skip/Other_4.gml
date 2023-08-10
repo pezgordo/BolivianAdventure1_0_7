@@ -1,0 +1,1 @@
+music_next = virtual_key_add(x - 6,y - 16, 46, 56, ord("P"));

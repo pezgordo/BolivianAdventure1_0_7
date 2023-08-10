@@ -1,0 +1,1 @@
+key_restart = virtual_key_add(x,y, 100, 100, ord("R"));

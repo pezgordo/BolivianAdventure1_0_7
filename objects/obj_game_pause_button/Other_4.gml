@@ -1,0 +1,1 @@
+pause_game = virtual_key_add(x ,y , 40, 40, ord("U"));

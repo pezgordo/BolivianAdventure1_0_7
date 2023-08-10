@@ -1,0 +1,1 @@
+key_left = virtual_key_add(x - 22,y -11, 150, 150, vk_left);

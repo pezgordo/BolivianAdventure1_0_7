@@ -1,0 +1,1 @@
+audio_play_sound(snd_cruz_completa, 11, 0);

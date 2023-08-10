@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_ekeko_fx_1, image_index, x, y, image_xscale, 1.5, 0, c_white, 0.8);

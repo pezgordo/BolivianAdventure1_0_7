@@ -1,0 +1,1 @@
+radiuses = minRadius;	
