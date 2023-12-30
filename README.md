@@ -13,7 +13,6 @@ I used gamemaker for general programming of the game, Photoshop and Acesprite fo
 Bolivian Adventure is a platformer game is inspired by my country Bolivia, it's full of cultural references.  It currently has
 3 levels and a final Boss level.
 
-Plans to update the game and fix the bugs are paused until I find a job and get my financials in order.
 
 
 ![Gameplay image 1](https://github.com/pezgordo/BolivianAdventure1_0_7/blob/main/bol_ad_1.png)
