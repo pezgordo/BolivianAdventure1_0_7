@@ -1,19 +1,22 @@
 # BolivianAdventure1_0_7
-Mobile game for Android with AdMob implementation V.1.0.7
 
-----------------------------------------------------------------------------
-DOWNLOAD USING ANDROID AT:
-https://play.google.com/store/apps/details?id=com.PEZGORD8.BOLIVIANADVENTURE
-----------------------------------------------------------------------------
+BolivianAdventure1_0_7 is a mobile game for Android with AdMob implementation, version 1.0.7.
 
-This is my first videogame project, it currently has over 2k downloads and 4.3 star rating.
+**Download from Google Play**: [Bolivian Adventure](https://play.google.com/store/apps/details?id=com.PEZGORD8.BOLIVIANADVENTURE)
 
-I used gamemaker for general programming of the game, Photoshop and Acesprite for graphic design and Garageband for Audio/Music.
+This is my first videogame project, which has garnered over 2k downloads and a 4.3-star rating.
 
-Bolivian Adventure is a platformer game is inspired by my country Bolivia, it's full of cultural references.  It currently has
-3 levels and a final Boss level.
+## Overview
 
+I used the following tools for development:
 
+- **Game Engine**: Gamemaker
+- **Graphic Design**: Photoshop and Acesprite
+- **Audio/Music**: Garageband
+
+## Game Description
+
+Bolivian Adventure is a platformer game inspired by Bolivia, filled with cultural references. It currently features three levels and a final Boss level.
 
 ![Gameplay image 1](https://github.com/pezgordo/BolivianAdventure1_0_7/blob/main/bol_ad_1.png)
 ![Gameplay image 2](https://github.com/pezgordo/BolivianAdventure1_0_7/blob/main/bol_ad_2.png)
